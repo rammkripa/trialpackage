@@ -8,6 +8,7 @@ Authors@R:
            email = "ram.m.kripa@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Detects h's.
+Imports: stringr
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
